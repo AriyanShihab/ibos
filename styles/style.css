@@ -1,0 +1,37 @@
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.as-primary {
+    color: #1c2880;
+}
+
+.as-primary-bg {
+    background: #1c2880;
+}
+
+.as-brand-color-fb {
+    color: #ade4fd;
+}
+
+.as-brand-color-linkedin {
+    color: #45fbfb;
+}
+
+.as-brand-color-tweeter {
+    color: #1da0f0;
+}
+
+.as-brand-color-youtube {
+    color: #cb201f;
+}
+
+.nav-link {
+    transition: 0.5s;
+}
+
+.hover-bg:hover {
+    background-color: #1c2880;
+    color: #fff;
+}
