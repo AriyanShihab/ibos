@@ -3,6 +3,10 @@ img {
     height: auto;
 }
 
+* {
+    font-family: "Poppins", sans-serif;
+}
+
 .as-primary {
     color: #1c2880;
 }
@@ -27,6 +31,10 @@ img {
     color: #cb201f;
 }
 
+.as-light-primary {
+    color: #3878df;
+}
+
 .nav-link {
     transition: 0.5s;
 }
@@ -34,4 +42,14 @@ img {
 .hover-bg:hover {
     background-color: #1c2880;
     color: #fff;
+}
+
+.as-translate {
+    transition: 0.5s;
+}
+
+.as-translate:hover {
+    background-color: #1da0f0;
+    color: #111535;
+    transform: translateY(-10px);
 }
